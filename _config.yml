@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Bibin Eugine"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography."
+  bio    : "Tech, Travel & Food"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
