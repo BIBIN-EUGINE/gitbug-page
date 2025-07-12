@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi, I’m Bibin Eugine — a tech enthusiast who loves building things with code and electronics. I’ve always been curious about how technology works, but more importantly, I care about what it can do for people.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+For me, technology isn’t just about innovation for its own sake. It’s a tool to make life better, to solve real problems, and to create things that leave a positive mark on the world. Whether it’s through automation, smart systems, or just thoughtful design, I’m driven by the idea that tech should serve people — not the other way around.
+
+I’m still early in the journey, learning, experimenting, and creating wherever I can. But the goal is simple: to use technology to make the world a little bit better, one meaningful project at a time.
