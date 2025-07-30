@@ -5,7 +5,3 @@ Tech
 4. MIPS project
 5. ARMv8 or V9 series
 6. Optical
-
-Travel
-
-Food
